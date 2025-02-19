@@ -21,3 +21,5 @@ Training Strategy:
 Lessons Learned:
 
 This project highlighted the resource-intensive nature of deep learning. While large datasets improve accuracy, computational power is a major factor. Future improvements could include increasing pooling sizes (e.g., 3×3, 5×5) and leveraging cloud computing for extended training.
+
+Unfortunately, I cannot upload the weights of the model as they are a bit large so I uploaded them on Google Drive with the following link: https://drive.google.com/drive/folders/1tx3YwSp7AFlWOtUHOo5g63kl_RLDKZ8o?usp=sharing
